@@ -96,7 +96,7 @@
     </a>
   </p>
 
-  <p><sub>🚀 Always open to tech chats, open-source work, and new opportunities.</sub></p>
+  <!-- <p><sub>🚀 Always open to tech chats, open-source work, and new opportunities.</sub></p> -->
 
   <!-- <p>⚡ Crafted with precision by <b>Nosib Biswas</b> • <a href="https://nosib.vercel.app">nosib.vercel.app</a></p> -->
 </div>
